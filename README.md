@@ -1,2 +1,2 @@
 # PersonalHub
-Personal hub for me
+Should be hosted soon
