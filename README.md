@@ -1,2 +1,2 @@
 # PersonalHub
-Should be hosted soon
+Personal project to make myself a dashboard. Made using an MVC approach
